@@ -1,11 +1,11 @@
 # leonardomtzsouza.github.io
-Aqui vou ublicar meus trabalhos web
+Aqui vou publicar meus trabalhos web
 
-# Título <h1>
-## Título <h2>
-### Título <h3>
-#### Título <h4>
-##### Título <h5>
-###### Título <h6>
+# Título 1 <h1>
+## Título 2 <h2>
+### Título 3 <h3>
+#### Título 4 <h4>
+##### Título 5 <h5>
+###### Título 6 <h6>
 
 [Clique aqui para acessar meu site](https://leonardomtzsouza.github.io/site/)
